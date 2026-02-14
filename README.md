@@ -123,24 +123,6 @@ Run tests using:
 
 mvn test
 
-🔒 Security (If You Add Later)
-
-JWT Authentication
-
-Role Based Access (Admin / Doctor / Patient)
-
-🌱 Future Enhancements
-
-Frontend Integration (React / Angular)
-
-Payment Gateway Integration
-
-SMS / Email Notifications
-
-AI Based Appointment Prediction
-
-Cloud Deployment (AWS / Azure)
-
 🤝 Contribution
 
 Contributions are welcome!

@@ -55,7 +55,7 @@ HospitalManagementSystem
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/HMS_AI_Chatbot.git
+git clone https://github.com/Priyanshu0420/HMS_Ai_Chatbot.git
 cd HospitalManagementSystem
 
 2️⃣ Configure Database
